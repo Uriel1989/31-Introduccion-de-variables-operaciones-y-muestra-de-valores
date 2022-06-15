@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\31-OperacionesVariables\31-OperacionesVariables\bin\Debug\31-OperacionesVariables.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\31-OperacionesVariables\31-OperacionesVariables\bin\Debug\31-OperacionesVariables.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\31-OperacionesVariables\31-OperacionesVariables\obj\Debug\31-OperacionesVariables.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\31-OperacionesVariables\31-OperacionesVariables\obj\Debug\31-OperacionesVariables.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\31-OperacionesVariables\31-OperacionesVariables\obj\Debug\31-OperacionesVariables.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\31-OperacionesVariables\31-OperacionesVariables\obj\Debug\31-OperacionesVariables.csprojAssemblyReference.cache
